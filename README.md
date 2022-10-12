@@ -22,5 +22,3 @@ ATTENZIONE: Seguire attentamente le richieste del file src/main.py, passo per pa
 L'obiettivo è quello di realizzare un algoritmo di trading automatico per l'allocazione ottimale di un portafoglio di investimento. 
 
 La valutazione avrà luogo runnando il src/main.py (originale) sulla repo consegnata. L'output desiderato dei primi due punti è presente nel file output/logs.txt.
-
-La consegna è entro il 5 Aprile 2022
